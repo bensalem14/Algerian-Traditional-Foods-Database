@@ -1,6 +1,6 @@
 # Algerian-Traditional-Foods-Database
 A small Algerian database for some of the local traditional dishes,sweets,starters and drinks specificly from Blida.
-the database is intended for web apps featuring traditional Algerian foods with there ingredients ,ratings , steps , nutritional value .
+the database is intended for web apps featuring traditional Algerian foods with there ingredients, ratings, steps, nutritional value .
 
 ## Tables
 **recette**
