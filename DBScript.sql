@@ -525,7 +525,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 
 INSERT INTO `users` (`userid`, `nom`, `prenom`, `mail`, `sex`, `password`, `dateN`, `etat`, `valider`) VALUES
 (1, 'bensalem', 'bensalem', 'jm_bensalem@esi.dz', 'm', 'xxxxx', '2001-04-06', 1, 1),
-(2, 'djamel', 'attaher', 'canonisensys14@gmail.com', 'm', 'xxxx', '2001-04-06', 1, 0);
+(2, 'salim', 'salim', 'xxxx@gmail.com', 'm', 'xxxx', '2001-04-06', 1, 0);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
