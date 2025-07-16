@@ -20,3 +20,4 @@ the rest of the tables are used for tasks related to websites such as administra
 
 - Note the images and videos are stored as links .
 
+![diagram](./recipe_database_diagram.png)
